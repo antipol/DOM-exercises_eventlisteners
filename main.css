@@ -15,6 +15,7 @@ h2 {
 img {
     width: 20em;
     display: block;
+    border: solid 5px black;
 }
 
 section {
